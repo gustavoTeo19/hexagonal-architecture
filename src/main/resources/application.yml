@@ -1,0 +1,10 @@
+mamede:
+  client:
+    address:
+      url: http://localhost:8082/addresses
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/hexagonal
+    username: postgres
+    password: 1428
